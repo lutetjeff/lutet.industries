@@ -1,0 +1,12 @@
+---
+.title = "projects",
+.date = @date("2024-11-14T00:00:00"),
+.author = "lutet",
+.layout = "home.shtml",
+.draft = false,
+--- 
+
+# index (projects)
+lutet industries new site coming soon
+
+powered by zig

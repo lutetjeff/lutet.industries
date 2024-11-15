@@ -1,0 +1,9 @@
+---
+.title = "resume",
+.date = @date("2024-11-14T00:00:00"),
+.author = "lutet",
+.layout = "resume.shtml",
+.draft = false,
+--- 
+
+resume

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head id="head">
+    <meta charset="UTF-8">
+    <meta name="description" content="lutet industries">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@lutetjeff">
+    <meta name="twitter:author" content="@lutetjeff">
+    <meta name="twitter:description" content="lutet industries">
+    <meta name="twitter:title" content="$page.title.suffix(' | lutet industries')">
+    <meta name="twitter:image" content="$site.host_url.addPath($site.asset('logos/256px.png').link())">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="$page.title.suffix(' | lutet industries')">
+    <meta property="og:image" content="$site.host_url.addPath($site.asset('logos/256px.png').link())">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title id="title">
+      <super>
+      - lutet industries
+    </title>
+    <link rel="stylesheet" type="text/css" href="$site.asset('fonts.css').link()">
+    <link rel="stylesheet" type="text/css" href="$site.asset('style.css').link()">
+    <link rel="icon" type="image/x-icon" href="$site.asset('logos/favicon.ico').link()">
+    <super>
+  </head>
+  <body>
+    <nav id="menu" class="navbar">
+      <div class="navbar-left">
+        <a href="#">
+          <img src="$site.asset('logos/256px-nobg.png').link()" alt="Logo" class="navbar-logo">
+        </a>
+      </div>
+      <div class="navbar-right">
+        <a href="/" class="navbar-link">Home</a>
+        <a href="$site.page('projects').link()" class="navbar-link">Projects</a>
+        <a href="$site.page('resume').link()" class="navbar-link">Resume</a>
+      </div>
+    </nav>
+    <div id="content">
+    	<super>
+    </div>
+  </body>
+</html>

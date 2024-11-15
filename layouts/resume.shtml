@@ -4,5 +4,5 @@
   <meta charset="UTF-8">
 </head>
 <div id="content">
-  <div :html="$page.content()"></div>
+  <embed src="$site.asset('resume-latest.pdf').link()" width="500" height="675" type="application/pdf">
 </div>
