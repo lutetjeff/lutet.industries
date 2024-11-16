@@ -1,13 +1,21 @@
 ---
-.title = "index",
+.title = "home",
 .date = @date("2024-11-14T00:00:00"),
 .author = "lutet",
 .layout = "home.shtml",
 .draft = false,
 --- 
 
-# index
+[]($section.id('0'))
 
-lutet industries new site coming soon
+# hi! i'm jeff
 
-powered by zig
+[]($section.id('1'))
+
+not the archetypal UIUC computer engineering major. 
+
+**I'm...**
+* Former Intern at [Rivian](https://rivian.com/), working on ECUs
+* President of the [Illini Rhythm Syndicate](https://linktr.ee/irs_uiuc)
+* Electrical Lead of [Eco Illini Supermileage](https://ecoillini.mechse.illinois.edu/)
+* Mentor for [SAS MATE Robotics](https://odnrobotics.com/mate/)

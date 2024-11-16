@@ -1,0 +1,112 @@
+---
+.title = "lore",
+.date = @date("2024-11-14T00:00:00"),
+.author = "lutet",
+.layout = "post.shtml",
+.draft = false,
+--- 
+
+# lore
+welcome to the lore page. this is a storage of various pieces of lore about me. i will update with answers to frequently asked questions.
+```=html
+<br><br><br>
+```
+
+## who am i?
+
+[my name jeff](https://www.youtube.com/watch?v=AfIOBLr1NDU)
+
+I was born in **Vancouver, BC** in 2004. Proud Canadian citizen 🇨🇦🇨🇦🇨🇦 
+
+I spent my first few years in **Beijing, China**, then went to grade school at an international school in **Singapore**.
+
+Now I'm in **Champaign-Urbana, Illinois, USA** attending the University of Illinois Urbana-Champaign.
+
+In retrospect, my path to now has been a really long journey, from my dad teaching me how to solder when I was just a little kid,
+to game development in middle school, to running my own "company" with friends, to high school robotics, to everything today.
+
+```=html
+<br><br><br>
+```
+
+## what are my educational/career goals?
+
+I'd like to balance my desire to keep educating myself with doing something meaningful with my career.
+
+I'm not really a complete non-believer in academia though, so I'm going to pursue a graduate degree.
+
+Most likely that will be a 1.5-year continuation of my undergrad at UIUC, with a M.S. in ECE. 
+
+If I finish my undergrad a year early (as intended, in May 2026), I should finish my master's degree by December 2027.
+
+Ph.D is on the table but unlikely.
+
+```=html
+<br><br><br>
+```
+
+## what is a lutet and why is it industries
+
+This is somewhat of a long story. Back in 8th grade, I started a Minecraft creative server with my friends where we
+were each assigned some territory, and we roleplayed as the governors of our respective territories, with congress, housing,
+transportation, infrastructure, things of that sort. Originally, we designated a bunch of regions based on geographical features and gave
+the regions to each player. My first region was called Hanatia, a variant of the european region [Banat](https://en.wikipedia.org/wiki/Banat).
+A few months in, and I had pretty much run out of coastline to build more stuff. So I looked into expanding into the next region, where the player
+there had never really been active. That region was called **Lutet**, named after [Lutetia](https://en.wikipedia.org/wiki/Lutetia).
+All of my better builds and my government offices eventually moved over to Lutet,
+and a few months later we merged the two regions into a state called Lutet-Hanatia. In government, my friends and I called each other
+by our state names for convenience sake, and so when we were on the server, my friends started calling me lutet. I got curious, realized that Minecraft
+username had not been taken yet, and switched my username to that. 
+
+I like the name lutet because it is short, memorable, and relatively underutilized on the internet. So if you look up lutet my socials come up pretty quickly.
+
+Why industries? I'm not completely sure but when I was first building custom PCBs I wanted to mark them like Adafruit did and Adafruit's full name is Adafruit Industries.
+Hence, **lutet industries**. 
+
+```=html
+<br><br><br>
+```
+
+## why do you play rhythm games
+tl;dr friend kept telling me to play osu and i got so annoyed i downloaded the game, got better than him, and sniped every single one of his scores
+
+nowadays I'm more chill though, still a competitive spirit but more formally (like through tournaments and esports and what not) 
+
+I choose to play rhythm games rather than other types of games as it's typically a very skill-based game. learning a new game gives me tons of dopamine just to get better, keeps the mind sharp,
+and sometimes can help me get exercise. (ITG and beat saber)
+
+here is a (incomplete) list of rhythm games I have played a decent amount (>10 hours):
+- osu!standard
+- 4k vsrg (osu!mania, quaver, etterna)
+- 6k vsrg (osu!mania)
+- 7k vsrg (osu!mania)
+- osu!taiko
+- maimai
+- chunithm
+- taiko no tatsujin
+- a dance of fire and ice
+- 4-panel dance games (DDR, ITG) thank you [carter](https://x.com/CarterTheQ) and evan for getting me into this
+- pop'n music
+- beat saber
+
+```=html
+<br><br><br>
+```
+
+## what are other things you have done?
+- made a hoi4 mod that got ~20,000 downloads
+- run a few youtube channels... some of which got pretty big
+- designed a bunch of keyboard PCBs and keyboards back in the day
+- i love [jet lag the game](https://en.wikipedia.org/wiki/Jet_Lag:_The_Game) and we run mini versions of it with friends now and then
+
+```=html
+<br><br><br>
+```
+
+## website lore
+
+this website is powered by [zig](https://ziglang.org/) & [zine](https://zine-ssg.io/).
+
+can some web designer person tell me how to make the banner on the front look natural with different aspect ratios
+
+i know how to make functional UIs not aesthetically pleasing ones lol

@@ -2,7 +2,48 @@
 <title id="title" :text="$page.title"></title>
 <head id="head">
   <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="$site.asset('socials.css').link()">
 </head>
 <div id="content">
-  <div :html="$page.content()"></div>
+  <div :html="$page.contentSection('0')"></div>
+  <div class="social-links">
+    <a href="mailto:jeff@lutet.industries" class="social-link">
+      <div class="social-icon">
+        <img src="$site.asset('svg-icons/protonmail.svg').link()" alt="email" class="social-svg filter_darkpurple">
+      </div>
+    </a>
+    <a href="https://www.linkedin.com/in/jefferson-z/" class="social-link">
+      <div class="social-icon">
+        <img src="$site.asset('svg-icons/linkedin.svg').link()" alt="linkedin" class="social-svg filter_darkpurple">
+      </div>
+    </a>
+    <a href="https://discordapp.com/users/233049286101696513" class="social-link">
+      <div class="social-icon">
+        <img src="$site.asset('svg-icons/discord.svg').link()" alt="discord" class="social-svg filter_darkpurple">
+      </div>
+    </a>
+    <a href="https://www.instagram.com/lutetjeff/" class="social-link">
+      <div class="social-icon">
+        <img src="$site.asset('svg-icons/instagram.svg').link()" alt="instagram" class="social-svg filter_darkpurple">
+      </div>
+    </a>
+    <a href="https://x.com/lutetjeff" class="social-link">
+      <div class="social-icon">
+        <img src="$site.asset('svg-icons/x.svg').link()" alt="x" class="social-svg filter_darkpurple">
+      </div>
+    </a>
+    <a href="https://github.com/lutetjeff" class="social-link">
+      <div class="social-icon">
+        <img src="$site.asset('svg-icons/github.svg').link()" alt="github" class="social-svg filter_darkpurple">
+      </div>
+    </a>
+  </div>
+  <br>
+  <div :html="$page.contentSection('1')"></div>
+  <span style="display:inline-block; width:0; height:100px; margin-left:10px;"></span>
+</div>
+<div id="post-content">
+  <div class="banner-container">
+    <img src="$site.asset('home-banner.jpg').link()" alt="banner" class="banner-image">
+  </div>
 </div>

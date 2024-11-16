@@ -2,11 +2,28 @@
 .title = "projects",
 .date = @date("2024-11-14T00:00:00"),
 .author = "lutet",
-.layout = "home.shtml",
+.layout = "post.shtml",
 .draft = false,
 --- 
 
-# index (projects)
-lutet industries new site coming soon
+# projects
 
-powered by zig
+// TODO: port all of these projects from the old site
+
+## 2024
+- eco illini e7 architecture
+- ece395 location-accurate dance pad
+- teaching hardware skills through building a pop'n music controller
+
+## 2023
+- eco illini can sensor board
+- eco illini can standardization
+- the boar-d
+- ece297 FPGA upscaling gpu
+- a reflection on MATE robotics
+
+## 2022
+- the IMU mouse
+
+## 2021
+- KU hackfest - smart drawers
