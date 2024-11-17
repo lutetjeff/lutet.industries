@@ -1,0 +1,33 @@
+<extend template="base.shtml">
+<title id="title" :text="$page.title"></title>
+<head id="head">
+  <meta charset="UTF-8">
+  <meta property="font_Inter_24pt-Black" content="$site.host_url.addPath($site.asset('fonts/Inter_24pt-Black.ttf').link())">
+  <meta property="font_Inter_24pt-BlackItalic" content="$site.host_url.addPath($site.asset('fonts/Inter_24pt-BlackItalic.ttf').link())">
+  <meta property="font_Inter_24pt-Bold" content="$site.host_url.addPath($site.asset('fonts/Inter_24pt-Bold.ttf').link())">
+  <meta property="font_Inter_24pt-BoldItalic" content="$site.host_url.addPath($site.asset('fonts/Inter_24pt-BoldItalic.ttf').link())">
+  <meta property="font_Inter_24pt-ExtraBold" content="$site.host_url.addPath($site.asset('fonts/Inter_24pt-ExtraBold.ttf').link())">
+  <meta property="font_Inter_24pt-ExtraBoldItalic" content="$site.host_url.addPath($site.asset('fonts/Inter_24pt-ExtraBoldItalic.ttf').link())">
+  <meta property="font_Inter_24pt-ExtraLight" content="$site.host_url.addPath($site.asset('fonts/Inter_24pt-ExtraLight.ttf').link())">
+  <meta property="font_Inter_24pt-ExtraLightItalic" content="$site.host_url.addPath($site.asset('fonts/Inter_24pt-ExtraLightItalic.ttf').link())">
+  <meta property="font_Inter_24pt-Light" content="$site.host_url.addPath($site.asset('fonts/Inter_24pt-Light.ttf').link())">
+  <meta property="font_Inter_24pt-LightItalic" content="$site.host_url.addPath($site.asset('fonts/Inter_24pt-LightItalic.ttf').link())">
+  <meta property="font_Inter_24pt-Medium" content="$site.host_url.addPath($site.asset('fonts/Inter_24pt-Medium.ttf').link())">
+  <meta property="font_Inter_24pt-MediumItalic" content="$site.host_url.addPath($site.asset('fonts/Inter_24pt-MediumItalic.ttf').link())">
+  <meta property="font_Inter_24pt-Regular" content="$site.host_url.addPath($site.asset('fonts/Inter_24pt-Regular.ttf').link())">
+  <meta property="font_Inter_24pt-Italic" content="$site.host_url.addPath($site.asset('fonts/Inter_24pt-Italic.ttf').link())">
+  <meta property="font_Inter_24pt-SemiBold" content="$site.host_url.addPath($site.asset('fonts/Inter_24pt-SemiBold.ttf').link())">
+  <meta property="font_Inter_24pt-SemiBoldItalic" content="$site.host_url.addPath($site.asset('fonts/Inter_24pt-SemiBoldItalic.ttf').link())">
+  <meta property="font_Inter_24pt-Thin" content="$site.host_url.addPath($site.asset('fonts/Inter_24pt-Thin.ttf').link())">
+  <meta property="font_Inter_24pt-ThinItalic" content="$site.host_url.addPath($site.asset('fonts/Inter_24pt-ThinItalic.ttf').link())">
+  <meta property="font_DMMono-Regular" content="$site.host_url.addPath($site.asset('fonts/DMMono-Regular.ttf').link())">
+  <meta property="font_DMMono-Italic" content="$site.host_url.addPath($site.asset('fonts/DMMono-Italic.ttf').link())">
+  <meta property="font_DMMono-Light" content="$site.host_url.addPath($site.asset('fonts/DMMono-Light.ttf').link())">
+  <meta property="font_DMMono-LightItalic" content="$site.host_url.addPath($site.asset('fonts/DMMono-LightItalic.ttf').link())">
+  <meta property="font_DMMono-Medium" content="$site.host_url.addPath($site.asset('fonts/DMMono-Medium.ttf').link())">
+  <meta property="font_DMMono-MediumItalic" content="$site.host_url.addPath($site.asset('fonts/DMMono-MediumItalic.ttf').link())">
+</head>
+<div id="content">
+  This page solely exists to force zine to load fonts. If anyone knows a better way to do this please tell me
+</div>
+<div id="post-content"></div>
